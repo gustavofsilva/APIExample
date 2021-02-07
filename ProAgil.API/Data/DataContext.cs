@@ -10,6 +10,7 @@ namespace ProAgil.API.Data
             
         }
         public DbSet<Evento> Eventos {get; set;}
+        
 
     }
 }
